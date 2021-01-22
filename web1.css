@@ -1,0 +1,28 @@
+
+#second{
+	background-color:#ffd11a;
+	height:300px;
+	margin-top:10px;
+}
+.box{
+	border-radius:120px;
+	width:400px;
+	height:200px;
+	background-color:magenta;
+	float:left;
+	margin-top:40px;
+	margin-left:70px;
+}
+.box:nth-child(1){
+background-image:url(gif1.gif);
+background-size:cover;
+
+}
+.box:nth-child(2){
+background-image:url(bg.jpg);
+background-size:cover;
+}
+.box:nth-child(3){
+background-image:url(gif2.gif);
+background-size:cover;
+}
