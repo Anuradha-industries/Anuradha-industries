@@ -1,0 +1,16 @@
+summary{
+	background-color:black;
+	color:white;
+	font size:30px;
+	margin-top:10px;
+}
+body{
+	background: linear-gradient(to top, #6699ff 0%, #ff6699 66%);
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:1900px;
+}
+p{
+		background-color:black;
+	width: 352px;
+}
