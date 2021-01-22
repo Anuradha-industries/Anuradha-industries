@@ -1,0 +1,11 @@
+body{
+	background-image: linear-gradient(to right,yellow,green);
+}
+h2{
+	width:800px;
+	text-align:justify;
+}
+p{
+	background-color:black;
+	width: 352px;
+}
